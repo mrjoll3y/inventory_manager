@@ -2,7 +2,7 @@
 
 In this project, I developed an inventory management system to further my understanding of relational databases and SQL queries. The software interacts with a SQLite database to store, retrieve, update, and delete product information. Users can manage products by adding details like name, category, price, and supplier. The purpose of this software is to practice basic database operations, improve my coding skills, and understand how to manage data using a relational database.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TEN2XEmyvDk)
 
 **Relational Database**
 
